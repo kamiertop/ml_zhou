@@ -13,13 +13,11 @@ cd ml_zhou && uv sync
 
 ```
 
+## 进度
+
+- [x] 1.2
+
 ## 问题反馈
 
 1. issue
 2. email: jxl762610973@gmail.com
-
-## 鸣谢
-
-1. 周志华老师
-2. ChatGPT
-3. https://space.bilibili.com/675441250
